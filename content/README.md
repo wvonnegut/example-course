@@ -1,0 +1,2 @@
+# Example Course
+Welcome, nerds!
